@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Júnior
 
 
-- 🔭 Atualmente eu trabalho com entregas de comida.
+- 🔭 Atualmente eu trabalho com entregas.
 - 🌱 Estudando Java
 - 😄 Pronouns: ele/dele
 
